@@ -2,7 +2,7 @@
 
 A collection of small Python projects for learning, practice, and fun.
 
-## Projects Included (Alphabetical)
+## Projects Included 
 
 - Blackjack 21
 - Calculator
