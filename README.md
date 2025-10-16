@@ -27,7 +27,7 @@ A collection of small Python projects for learning, practice, and fun.
 - Snake Game
 - States Game
 - Story
-- TipCalculator – A simple program to calculate tips based on bill amount and tip percentage.
+- TipCalculator 
 - Turtlerace
 - Password Generator
 
