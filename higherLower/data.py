@@ -1,0 +1,22 @@
+data = [
+    {'name': 'Instagram', 'followers': 667000000, 'description': 'Official Instagram account showcasing creators and trends.', 'country': 'Global'},
+    {'name': 'Cristiano Ronaldo', 'followers': 639900000, 'description': 'Professional footballer, shares training and personal life.', 'country': 'Portugal'},
+    {'name': 'Lionel Messi', 'followers': 504000000, 'description': 'Football legend, shares match highlights and family moments.', 'country': 'Argentina'},
+    {'name': 'Selena Gomez', 'followers': 424300000, 'description': 'Singer and actress, mental health advocate and entrepreneur.', 'country': 'USA'},
+    {'name': 'Kylie Jenner', 'followers': 398000000, 'description': 'Beauty mogul and media personality.', 'country': 'USA'},
+    {'name': 'Dwayne Johnson', 'followers': 396000000, 'description': 'Actor and fitness icon, known as The Rock.', 'country': 'USA'},
+    {'name': 'Ariana Grande', 'followers': 377000000, 'description': 'Pop singer and actress, shares music and personal life.', 'country': 'USA'},
+    {'name': 'Kim Kardashian', 'followers': 361000000, 'description': 'Media mogul and businesswoman, shares fashion and family.', 'country': 'USA'},
+    {'name': 'Beyoncé', 'followers': 316000000, 'description': 'Iconic singer and actress, shares art and visuals.', 'country': 'USA'},
+    {'name': 'Khloé Kardashian', 'followers': 307000000, 'description': 'TV personality and fitness advocate.', 'country': 'USA'},
+    {'name': 'Nike', 'followers': 290000000, 'description': 'Sportswear brand showcasing athletes and campaigns.', 'country': 'USA'},
+    {'name': 'Justin Bieber', 'followers': 285000000, 'description': 'Pop singer, shares personal life and music.', 'country': 'Canada'},
+    {'name': 'Kendall Jenner', 'followers': 280000000, 'description': 'Fashion model and reality star.', 'country': 'USA'},
+    {'name': 'National Geographic', 'followers': 278000000, 'description': 'Features nature, science, and travel photography.', 'country': 'USA'},
+    {'name': 'Taylor Swift', 'followers': 270000000, 'description': 'Singer-songwriter, shares tour moments and album news.', 'country': 'USA'},
+    {'name': 'Jennifer Lopez', 'followers': 250000000, 'description': 'Performer and actress, shares dance, music, and lifestyle.', 'country': 'USA'},
+    {'name': 'Virat Kohli', 'followers': 240000000, 'description': 'Cricket superstar, shares fitness and career moments.', 'country': 'India'},
+    {'name': 'Nicki Minaj', 'followers': 230000000, 'description': 'Rapper and singer, shares music and personal content.', 'country': 'USA'},
+    {'name': 'Kourtney Kardashian', 'followers': 223000000, 'description': 'TV personality and lifestyle influencer.', 'country': 'USA'},
+    {'name': 'Miley Cyrus', 'followers': 220000000, 'description': 'Singer and actress, known for edgy style and performances.', 'country': 'USA'}
+]
